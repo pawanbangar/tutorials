@@ -3,7 +3,9 @@
 /*
 	The Bubble Sort is just one of many methods out there to "sort lists of data".  It is
 	certainly NOT the fastest method, but it's pretty simple to implement and if you don't need
-	a blazing fast sort routine, it will get the job done.
+	a blazing fast sort routine, it will get the job done Logic behind this is When you have bubbles
+	the big bubble will have more air and will go up than the smmaller one similarly here after every
+	loop Big number goes to right till completion.
 
 	The Bubble Sort works like this:
 
@@ -140,5 +142,5 @@ void BubbleSort(int *numArray, int num, bool l2g)
 
 /*-------------------------*\
 |  Programmed by:  TheTutor	|
-|  ©2006 GameTutorials, LLC	|
+|  Â©2006 GameTutorials, LLC	|
 \*-------------------------*/
